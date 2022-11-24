@@ -259,14 +259,14 @@ position: relative;
     display: flex;
     
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color: #181717;
     cursor: pointer;
     padding: 18px;
     
 }
 
 .ptag1{
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     width: 750px;
     padding: 18px;
 }
@@ -274,14 +274,14 @@ position: relative;
 .sum1 img{
     position: relative;
     left: 500px;
-    background-color: rgb(80, 80, 77); ;
+    background-color:  #181717;
 }
 
 .sum2{
     display: flex;
     margin-top: 10px;
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     cursor: pointer;
     padding: 18px;
     
@@ -290,10 +290,10 @@ position: relative;
 .sum2 img{
     position: relative;
     left: 390px;
-    background-color: rgb(80, 80, 77); ;
+    background-color:  #181717 ;
 }
 .ptag2{
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     width: 750px;
     padding: 18px;
 }
@@ -302,7 +302,7 @@ position: relative;
     display: flex;
     margin-top: 10px;
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     cursor: pointer;
     padding: 18px;
     
@@ -311,10 +311,10 @@ position: relative;
 .sum3 img{
     position: relative;
     left: 450px;
-    background-color: rgb(80, 80, 77); ;
+    background-color:  #181717 ;
 }
 .ptag3{
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     width: 750px;
     padding: 18px;
 }
@@ -323,7 +323,7 @@ position: relative;
     display: flex;
     margin-top: 10px;
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     cursor: pointer;
     padding: 18px;
     
@@ -332,10 +332,10 @@ position: relative;
 .sum4 img{
     position: relative;
     left: 480px;
-    background-color: rgb(80, 80, 77); ;
+    background-color:  #181717 ;
 }
 .ptag4{
-    background-color: rgb(80, 80, 77);
+    background-color: #181717;
     width: 750px;
     padding: 18px;
 }
@@ -345,7 +345,7 @@ position: relative;
     display: flex;
     margin-top: 10px;
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     cursor: pointer;
     padding: 18px;
     
@@ -354,10 +354,10 @@ position: relative;
 .sum5 img{
     position: relative;
     left: 330px;
-    background-color: rgb(80, 80, 77); ;
+    background-color:  #181717 ;
 }
 .ptag5{
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     width: 750px;
     padding: 18px;
 }
@@ -366,7 +366,7 @@ position: relative;
     display: flex;
     margin-top: 10px;
     width: 750px;
-    background-color: rgb(80, 80, 77);
+    background-color: #181717;
     cursor: pointer;
     padding: 18px;
     
@@ -375,10 +375,10 @@ position: relative;
 .sum6 img{
     position: relative;
     left: 390px;
-    background-color: rgb(80, 80, 77); ;
+    background-color: #181717 ;
 }
 .ptag6{
-    background-color: rgb(80, 80, 77);
+    background-color:  #181717;
     width: 750px;
     padding: 18px;
 }
